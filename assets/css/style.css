@@ -738,7 +738,7 @@ footer{
     .close__sidebar
     {
         position: absolute;
-        top: 15px;
+        top: 30px;
         left: 15px;
         cursor: pointer;
     }
@@ -952,7 +952,7 @@ footer{
     .close__sidebar
     {
         position: absolute;
-        top: 15px;
+        top: 30px;
         left: 15px;
         cursor: pointer;
     }
@@ -1229,7 +1229,7 @@ footer{
     .close__sidebar
     {
         position: absolute;
-        top: 15px;
+        top: 30px;
         left: 15px;
         cursor: pointer;
     }
